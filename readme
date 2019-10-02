@@ -1,0 +1,5 @@
+Limited input,Limited fuction.
+'gwc_2019140189.ipynb' can implement the function of searching sentences including specular words you want in many sentences.
+but you must guaranttee two prerequesites:
+    1st. input for the variable 'keyword' must have three Chinese keywords and it is OK with blank seperator or no
+    2rd. you need input another text into the list type variable 'titleList'.
